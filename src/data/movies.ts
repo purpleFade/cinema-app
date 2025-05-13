@@ -11,7 +11,7 @@ export const movies: Movie[] = [
   {
     id: '1',
     title: 'Breaking Bad',
-    posterUrl: '/src/assets/posters/breaking_bad.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/breaking_bad.jpg',
     overview:
       "A high school chemistry teacher turned methamphetamine producer partners with a former student to secure his family's financial future.",
     runtime: 47,
@@ -20,7 +20,7 @@ export const movies: Movie[] = [
   {
     id: '2',
     title: 'Game of Thrones',
-    posterUrl: '/src/assets/posters/game_of_thrones.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/game_of_thrones.jpg',
     overview:
       'Nine noble families fight for control over the mythical lands of Westeros, while an ancient enemy returns after being dormant for millennia.',
     runtime: 60,
@@ -29,7 +29,7 @@ export const movies: Movie[] = [
   {
     id: '3',
     title: 'Stranger Things',
-    posterUrl: '/src/assets/posters/stranger_things.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/stranger_things.jpg',
     overview:
       'A group of young friends in a small town uncover a series of supernatural mysteries and government conspiracies.',
     runtime: 50,
@@ -38,7 +38,7 @@ export const movies: Movie[] = [
   {
     id: '4',
     title: 'Friends',
-    posterUrl: '/src/assets/posters/friends.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/friends.jpg',
     overview:
       'Six friends navigate life and love in New York City, supporting each other through the ups and downs of adulthood.',
     runtime: 22,
@@ -47,7 +47,7 @@ export const movies: Movie[] = [
   {
     id: '5',
     title: 'The Walking Dead',
-    posterUrl: '/src/assets/posters/the_walking_dead.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/the_walking_dead.jpg',
     overview:
       "A sheriff's deputy wakes up from a coma to find a world overrun by zombies, leading a group of survivors in a fight for humanity's future.",
     runtime: 44,
@@ -56,7 +56,7 @@ export const movies: Movie[] = [
   {
     id: '6',
     title: 'Sherlock',
-    posterUrl: '/src/assets/posters/sherlock.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/sherlock.jpg',
     overview:
       'A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.',
     runtime: 88,
@@ -65,7 +65,7 @@ export const movies: Movie[] = [
   {
     id: '7',
     title: 'The Big Bang Theory',
-    posterUrl: '/src/assets/posters/the_big_bang_theory.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/the_big_bang_theory.jpg',
     overview:
       'Two physicists with high IQs struggle to make sense of life outside of the laboratory.',
     runtime: 22,
@@ -74,7 +74,7 @@ export const movies: Movie[] = [
   {
     id: '8',
     title: 'Dexter',
-    posterUrl: '/src/assets/posters/dexter.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/dexter.jpg',
     overview:
       'A forensic expert for the Miami Metro Police leads a secret life as a vigilante serial killer.',
     runtime: 53,
@@ -83,7 +83,7 @@ export const movies: Movie[] = [
   {
     id: '9',
     title: 'The Office',
-    posterUrl: '/src/assets/posters/the_office.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/the_office.jpg',
     overview:
       "A documentary-style look at the everyday lives of office employees working at Dunder Mifflin's Scranton, PA branch.",
     runtime: 22,
@@ -92,7 +92,7 @@ export const movies: Movie[] = [
   {
     id: '10',
     title: 'Narcos',
-    posterUrl: '/src/assets/posters/narcos.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/narcos.jpg',
     overview:
       "The true-life story of Colombia's infamously violent and powerful drug cartels.",
     runtime: 50,
@@ -101,7 +101,7 @@ export const movies: Movie[] = [
   {
     id: '11',
     title: 'Black Mirror',
-    posterUrl: '/src/assets/posters/black_mirror.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/black_mirror.jpg',
     overview:
       'An anthology series exploring a twisted, high-tech multiverse that showcases the dark aspects of modern society.',
     runtime: 60,
@@ -110,7 +110,7 @@ export const movies: Movie[] = [
   {
     id: '12',
     title: 'Westworld',
-    posterUrl: '/src/assets/posters/westworld.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/westworld.jpg',
     overview:
       'A futuristic theme park where guests can experience their wildest fantasies through artificial beings.',
     runtime: 62,
@@ -119,7 +119,7 @@ export const movies: Movie[] = [
   {
     id: '13',
     title: 'The Mandalorian',
-    posterUrl: '/src/assets/posters/mandalorian.jpeg',
+    posterUrl: '/cinema-app/src/assets/posters/mandalorian.jpeg',
     overview:
       'The adventures of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.',
     runtime: 40,
@@ -128,7 +128,7 @@ export const movies: Movie[] = [
   {
     id: '14',
     title: 'The Crown',
-    posterUrl: '/src/assets/posters/crown.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/crown.jpg',
     overview:
       'The story of the reign of Queen Elizabeth II and the events that shaped the second half of the 20th century.',
     runtime: 60,
@@ -137,7 +137,7 @@ export const movies: Movie[] = [
   {
     id: '15',
     title: 'Peaky Blinders',
-    posterUrl: '/src/assets/posters/peaky_blinders.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/peaky_blinders.jpg',
     overview:
       'A gangster family epic set in 1919 Birmingham, England, following the exploits of the Peaky Blinders gang.',
     runtime: 60,
@@ -146,7 +146,7 @@ export const movies: Movie[] = [
   {
     id: '16',
     title: 'The Witcher',
-    posterUrl: '/src/assets/posters/the_witcher.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/the_witcher.jpg',
     overview:
       'A solitary monster hunter struggles to find his place in a world where people often prove more wicked than beasts.',
     runtime: 60,
@@ -155,7 +155,7 @@ export const movies: Movie[] = [
   {
     id: '17',
     title: 'Fargo',
-    posterUrl: '/src/assets/posters/fargo.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/fargo.jpg',
     overview:
       'A small-town Minnesota car salesman becomes entangled in an elaborate kidnapping scheme that goes awry.',
     runtime: 60,
@@ -164,7 +164,7 @@ export const movies: Movie[] = [
   {
     id: '18',
     title: 'True Detective',
-    posterUrl: '/src/assets/posters/true_detective.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/true_detective.jpg',
     overview:
       'Two detectives in Louisiana become involved in a complex case that spirals into a dark and disturbing investigation.',
     runtime: 55,
@@ -173,7 +173,7 @@ export const movies: Movie[] = [
   {
     id: '19',
     title: 'Money Heist',
-    posterUrl: '/src/assets/posters/money_heist.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/money_heist.jpg',
     overview:
       'A criminal mastermind plans the biggest heist in recorded history—to print billions of euros in the Royal Mint of Spain.',
     runtime: 60,
@@ -182,7 +182,7 @@ export const movies: Movie[] = [
   {
     id: '20',
     title: 'Better Call Saul',
-    posterUrl: '/src/assets/posters/better_call_saul.jpg',
+    posterUrl: '/cinema-app/src/assets/posters/better_call_saul.jpg',
     overview:
       'The prequel to Breaking Bad, detailing the transformation of Jimmy McGill into the morally challenged lawyer, Saul Goodman.',
     runtime: 50,
